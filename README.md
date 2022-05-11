@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is my seven app i made, is a TodoApp, with Adding task todo and if you done with the task there is a checkbox that make the task like done, in case the user wants to delete it you only have to hold the name of the task and it does delete.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
